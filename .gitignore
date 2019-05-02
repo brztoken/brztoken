@@ -1,0 +1,6 @@
+.secret
+.idea/*
+.infuraKey
+.fromAddress
+build/*
+node_modules/*
